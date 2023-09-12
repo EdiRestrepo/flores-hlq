@@ -1,0 +1,3 @@
+public enum Flower {
+    TULIPANES, GIRASOLES, ROSAS, CLAVEL, CAMALOTE
+}
